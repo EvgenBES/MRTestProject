@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MRTestProject</string>
+
+
+      <string name="sort_title">Сортировка:</string>
+      <string name="sort_name">Имя</string>
+      <string name="sort_point">Баллы</string>
+      <string name="sort_time">Время</string>
+
+</resources>
